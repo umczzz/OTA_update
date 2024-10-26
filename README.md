@@ -1,1 +1,1 @@
-OTA update for my ESP32
+OTA update for my Kincony_AM
